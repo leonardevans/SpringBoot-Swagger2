@@ -1,6 +1,6 @@
 package com.springbootswagger2.controller;
 
-import com.springbootswagger2.Hello;
+import com.springbootswagger2.model.Hello;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
 import io.swagger.annotations.ApiResponse;
